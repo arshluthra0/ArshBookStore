@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ArshBooks.DataAccess\ArshBooks.DataAccess.csproj" />
+    <ProjectReference Include="..\ArshBooks.Models\ArshBooks.Models.csproj" />
   </ItemGroup>
 
 </Project>
