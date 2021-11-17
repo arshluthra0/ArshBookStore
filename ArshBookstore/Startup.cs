@@ -1,3 +1,5 @@
+using ArshBooks.DataAccess.Repository.IRepository;
+using ArshBooks.DataAccess.Repository;
 using ArshBookstore.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -28,6 +30,7 @@ namespace ArshBookstore
 
             services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 
