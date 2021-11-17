@@ -22,8 +22,4 @@
     <ProjectReference Include="..\ArshBooks.Utility\ArshBooks.Utility.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\" />
-  </ItemGroup>
-
 </Project>
