@@ -1,10 +1,13 @@
-﻿using ArshBookstore.Models.ViewModels;
+﻿using ArshBookstore.Models;
+using System;
+using ArshBookstore.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
-namespace ArshBookstore.Controllers
+namespace ArshBookstore.Area.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
