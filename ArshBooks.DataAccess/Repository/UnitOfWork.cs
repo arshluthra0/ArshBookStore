@@ -1,4 +1,5 @@
 ﻿using ArshBooks.DataAccess.Repository.IRepository;
+using ArshBooks.Models;
 using ArshBookstore.DataAccess.Data;
 using System;
 using System.Collections.Generic;
@@ -17,10 +18,12 @@ namespace ArshBooks.DataAccess.Repository
             _db = db;
             Category = new CategoryRepository(_db);
             SP_Call = new SP_Call(_db);
+            CoverType = new CoverTypeRepository(_db);
         }
 
         public ICategoryRepository Category { get; private set; }
         public ISP_Call SP_Call { get; private set; }
+        public ICoverTypeRepository CoverType { get; private set; }
         public void Dispose()
         {
             _db.Dispose();

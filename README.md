@@ -33,7 +33,7 @@ Total Time:2 Hour
 22:53- Removed the previous bootstrap and added the boostrap code of quartz.
 Its not working.. hahahaha..
 23:00- Got what is not working. Remember to change the bootstrap url from bootstrap.in.css to bootstrap.css!!
-23:11- hmm... This layout is quiet bright. Too many colours. There is not many colours
+23:11- hmm... This layout is quiet bright. Too many colours. There are not many colours
 
 ---x---End of the project---x----
 Total time put into the Project: 9 Hours
