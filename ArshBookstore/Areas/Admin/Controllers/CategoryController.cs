@@ -10,8 +10,8 @@ namespace ArshBookstore.Areas.Admin.Controllers
     [Area("Admin")]
     public class CategoryController : Controller
     {
-        private readonly IUnitOfWork unitOfWork;
-        private IUnitOfWork _unitOfWork;
+        private readonly IUnitOfWork _unitOfWork;
+       
 
         public CategoryController(IUnitOfWork unitOfWork)
         {

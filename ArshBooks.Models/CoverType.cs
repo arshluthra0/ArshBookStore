@@ -11,7 +11,7 @@ namespace ArshBooks.Models
     {
         [Key]
 
-        public int ID { get; set; }
+        public int Id { get; set; }
 
         [Display(Name = "CoverType Name")]
         [Required]

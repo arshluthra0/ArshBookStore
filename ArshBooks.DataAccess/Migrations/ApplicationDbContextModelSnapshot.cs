@@ -50,7 +50,7 @@ namespace ArshBooks.DataAccess.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("CoverTypes");
+                    b.ToTable("CoverType");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
