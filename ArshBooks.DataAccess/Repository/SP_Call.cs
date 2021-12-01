@@ -80,5 +80,10 @@ namespace ArshBooks.DataAccess.Repository
                 return (T)Convert.ChangeType(sqlCon.ExecuteScalar<T>(procedureName, param, commandType: System.Data.CommandType.StoredProcedure), typeof(T));
             }
         }
+
+        public T OneRecord<T>(object proc_CoverType_Get, DynamicParameters parameter)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
