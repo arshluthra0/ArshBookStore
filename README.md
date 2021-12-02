@@ -1,7 +1,7 @@
 # ArshBookStore
 // Arsh Luthra 0777039
 Project name- ArshBookStore
-Theme name- Vapor
+Theme name- Morph
 
 18th October 2021
 11:30- We started playing with ASP.NET Core Web Application conigured with https and is truely amazing.
@@ -34,6 +34,8 @@ Total Time:2 Hour
 Its not working.. hahahaha..
 23:00- Got what is not working. Remember to change the bootstrap url from bootstrap.in.css to bootstrap.css!!
 23:11- hmm... This layout is quiet bright. Too many colours. There are not many colours
+
+Changed my layout to Morph.
 
 ---x---End of the project---x----
 Total time put into the Project: 9 Hours
