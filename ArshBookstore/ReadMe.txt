@@ -134,6 +134,10 @@ Gonna take a long break.
 
 Total time: 4 hours
 
+1st December
+
+22:34- Added Category and Covertype 
+
 4th December
 
 12:35- I entered the product in the data access
@@ -143,6 +147,11 @@ Total time: 4 hours
 12:45- Tried clicking the Create New Product button and thw window just closed and started showing me error.
 
 2:30-Tried resolving the exception, but I am not able to do so. Will ask professor in class.
+
+5th December
+Tried contining and it shows an ajax error.
+My page is working perfectly but it just shows an error.
+
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Total time put into the Project: 19 Hours
