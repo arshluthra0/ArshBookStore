@@ -134,6 +134,16 @@ Gonna take a long break.
 
 Total time: 4 hours
 
+4th December
+
+12:35- I entered the product in the data access
+
+12:40- Tried runing the project........ I just hope it works..... anddd it does! Yaaaayyyyyy!!
+
+12:45- Tried clicking the Create New Product button and thw window just closed and started showing me error.
+
+2:30-Tried resolving the exception, but I am not able to do so. Will ask professor in class.
+
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Total time put into the Project: 19 Hours
 ---x---End of the project---x---- 
